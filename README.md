@@ -20,4 +20,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/mariyakhan-/) and reac
 [![](https://visitcount.itsvg.in/api?id=mariyakhannn&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 **📊 2025 GitHub Stats**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariyakhannn)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=mariyakhannn&theme=holi&hide_border=true&include_all_commits=false&count_private=false)<br/>
