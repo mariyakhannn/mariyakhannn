@@ -4,7 +4,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/mariyakhan-/) and reac
 
 **About Me**
 * 🔭 GenAI obsessed
-* 🌱 Photography enthusiast
+* 📸 Photography enthusiast
 * 😄 I hate debugging
 
 <!--
