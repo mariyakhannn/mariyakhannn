@@ -3,9 +3,9 @@
 You can find me on [LinkedIn](https://www.linkedin.com/in/mariyakhan-/) and reach out via [email](mariya.k2022@gmail.com).
 
 **About Me**
-* 🔭 GenAI obsessed
+* 🦾 GenAI obsessed
 * 📸 Photography enthusiast
-* 😄 I hate debugging
+* 👩‍💻 I hate debugging
 
 <!--
 **mariyakhannn/mariyakhannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
