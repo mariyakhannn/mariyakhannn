@@ -4,7 +4,7 @@
 * 📸 Photography enthusiast
 * 👩‍💻 I hate debugging
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/mariyakhan-/) and reach out via [email](mariya.k2022@gmail.com).
+You can find me on [LinkedIn](https://www.linkedin.com/in/mariyakhan-/) and [X](https://x.com/k66792393).
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mariyakhannn&icon=0&color=0)](https://visitcount.itsvg.in)
