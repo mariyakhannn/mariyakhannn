@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Mariya! 
-**🌸 About Me**
+**About Me**
 * 🦾 GenAI obsessed
 * 📸 Photography enthusiast
 * 👩‍💻 I hate debugging
@@ -8,7 +8,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/mariyakhan-/) and [X](
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mariyakhannn&icon=0&color=0)](https://visitcount.itsvg.in)
-**💻 Tech Stack**
+**Tech Stack**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 
@@ -18,6 +18,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/mariyakhan-/) and [X](
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mariyakhannn&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**📊 2025 GitHub Stats**
+**2025 GitHub Stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=mariyakhannn&theme=holi&hide_border=true&include_all_commits=false&count_private=false)<br/>
