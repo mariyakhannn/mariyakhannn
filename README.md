@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mariya! 
+## 👋 Hi, I'm Mariya! ##
 **About Me**
 * 🦾 GenAI obsessed
 * 📸 Photography enthusiast
